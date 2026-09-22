@@ -1,1 +1,10 @@
 console.log("Hello World");
+let studentName = "John Doe";
+console.log(studentName);
+let age = 20;
+console.log(age);
+let name = "Jane Smith";
+let age2 = 25;
+console.log(name,age2);
+let country = "India";
+console.log(country);
