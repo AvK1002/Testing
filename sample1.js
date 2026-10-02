@@ -31,3 +31,23 @@ console.log(typeof isActive);
 let price2 = 50;
 console.log(price2);
 console.log(typeof price2);
+let employee={name:"Alice",
+age:28,
+department:"testing"
+}
+console. log(employee.name)
+console. log(employee.age)
+console. log(employee.department)
+let today=new Date()
+console. log(today)
+console. log(today.getFullYear())
+console. log(today.getDate())
+let pattern=/javascript/
+console. log(pattern.test("i am learning javascript"))
+let numbers=new Set([10,20,20,30])
+console. log(numbers)
+let student = new Map();
+student. set("name", "John");
+student.set("age", 25);
+console.log(student.get("name"));
+console. log(student.get("age"))
